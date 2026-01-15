@@ -1,0 +1,59 @@
+baseURL = "https://example.org/"
+title = "My New Hugo Site"
+author = "Joshua Abessolo"
+copyright = "© 2026"
+languageCode = "fr"
+DefaultContentLanguage = "fr"
+enableInlineShortcodes = true
+ignoreErrors = ["error-remote-getjson"]
+
+[pagination]
+  pagerSize = 3
+
+theme = "hugo-paper-main"
+
+[params]
+  color = 'linen'
+  avatar = 'abessolo.joshua@gmail.com'
+  name = 'Joshua'
+  bio = 'Votre bio'
+
+# needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+  [privacy.x]
+    disabled = false
+    enableDNT = true
+    simple = true
+  [privacy.instagram]
+    disabled = false
+    simple = true
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+  [services.x]
+    disableInlineCSS = true
+

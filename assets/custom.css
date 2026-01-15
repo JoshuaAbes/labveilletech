@@ -1,0 +1,35 @@
+/* Couleurs personnalisées */
+
+:root {
+  --color-bg: #40364F;
+  --color-text: #F8A6D3;
+}
+
+body {
+  background-color: var(--color-bg) !important;
+  color: var(--color-text) !important;
+}
+
+/* Applique aussi aux articles */
+article {
+  color: var(--color-text) !important;
+}
+
+/* Liens */
+a {
+  color: #F8A6D3 !important;
+}
+
+a:hover {
+  color: #ffc4e5 !important;
+}
+
+/* En-tête/Navigation */
+header {
+  background-color: var(--color-bg) !important;
+}
+
+/* Titres */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-text) !important;
+}
