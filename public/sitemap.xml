@@ -6,7 +6,37 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-21T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-01-21T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/design/</loc>
+    <lastmod>2026-01-21T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/index/</loc>
+    <lastmod>2026-01-21T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/m%C3%A9thode/</loc>
+    <lastmod>2026-01-21T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/m%C3%A9thodologie/</loc>
+    <lastmod>2026-01-21T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/systeme-veille-technologique/</loc>
+    <lastmod>2026-01-21T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/notion/</loc>
+    <lastmod>2026-01-21T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2026-01-21T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-21T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/veille/</loc>
+    <lastmod>2026-01-21T10:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
@@ -14,16 +44,10 @@
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/index/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/markdown/</loc>
@@ -32,16 +56,10 @@
     <loc>http://localhost:1313/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/themes/</loc>
