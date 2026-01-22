@@ -1,5 +1,5 @@
 +++
-date = '2026-01-22T10:00:00+01:00'
+date = "2026-01-22"
 draft = false
 title = "Comment les LLM peuvent aider un designer UI/UX à se former et à faire de la veille"
 tags = ['LLM', 'IA', 'veille', 'formation', 'design']
