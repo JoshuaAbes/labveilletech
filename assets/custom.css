@@ -64,6 +64,11 @@ strong {
   color: #f2f6d0 !important;
 }
 
+/* Citations (blockquotes) */
+blockquote {
+  color: #f2f6d0 !important;
+}
+
 /* Bouton menu hamburger */
 .btn-menu {
   color: #F8A6D3 !important;

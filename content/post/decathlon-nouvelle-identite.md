@@ -50,7 +50,7 @@ Ce redesign de Decathlon est une source d'inspiration particulièrement riche po
 
 **Un slogan double sens** : *Ready to Play?* n'est pas juste une phrase marketing, c'est une question incitative et ambitieuse, qui peut être interprétée comme un appel à l'action pour tout le monde (clients, partenaires, concurrents).
 
-**Une stratégie cohérente** : l'identité visuelle s'aligne avec une vision globale claire — celle d'une marque qui veut être non seulement présente, mais significative dans la vie des personnes.
+**Une stratégie cohérente** : l'identité visuelle s'aligne avec une vision globale claire, celle d'une marque qui veut être non seulement présente, mais significative dans la vie des personnes.
 
 ---
 
