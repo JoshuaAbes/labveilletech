@@ -28,3 +28,4 @@ _testmain.go
 /themes
 .DS_Store
 .hugo_build.lock
+public/
