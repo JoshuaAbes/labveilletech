@@ -10,8 +10,8 @@ theme = 'hugo-paper-main'
   instagram = 'gonuage'
 
 avatar = 'abessolo.joshua@gmail.com'
-  name = 'Abessolo'
-  bio = 'Discover fresh context'
+  name = 'Bonjour, je suis Joshua'
+  bio = 'Etudiant en ingénierie des médias'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
