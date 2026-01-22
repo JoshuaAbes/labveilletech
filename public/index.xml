@@ -9,6 +9,13 @@
     <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/labveilletech/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>À propos</title>
+      <link>http://localhost:1313/labveilletech/about/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/labveilletech/about/</guid>
+      <description>&lt;p&gt;Bonjour, je m&amp;rsquo;appelle &lt;strong&gt;Joshua&lt;/strong&gt;, j&amp;rsquo;ai 23 ans et je suis étudiant en ingénierie des médias.&lt;br&gt;&#xA;Je m&amp;rsquo;intéresse particulièrement au design graphique, à l&amp;rsquo;UI/UX design et à l&amp;rsquo;univers du football, qui constitue une source d&amp;rsquo;inspiration constante dans mon travail.&lt;/p&gt;&#xA;&lt;p&gt;À travers mes études, je développe des compétences à la fois techniques, créatives et analytiques, avec l&amp;rsquo;envie de comprendre comment les images, les interfaces et les systèmes numériques influencent notre manière d&amp;rsquo;interagir avec le monde. Le design est pour moi un moyen de raconter des histoires, de créer des expériences et de donner du sens à des idées, qu&amp;rsquo;elles soient culturelles, sportives ou médiatiques.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Comment les LLM peuvent aider un designer UI/UX à se former et à faire de la veille</title>
       <link>http://localhost:1313/labveilletech/post/comment-les-llm-aides-les-designers/</link>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
@@ -56,13 +63,6 @@
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/labveilletech/archives/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/labveilletech/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/labveilletech/about/</guid>
-      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
