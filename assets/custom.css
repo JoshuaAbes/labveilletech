@@ -41,9 +41,42 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Nom et bio sur la page d'accueil */
 .profile .profile_inner h1 {
-  color: #F8A6D3 !important;
+  color: #E94F0E !important;
 }
 
 .profile .profile_inner .bio {
   color: #F8A6D3 !important;
+}
+
+/* Nom (site.Params.name) - plus spécifique */
+div.text-2xl.font-medium.text-black,
+div.text-2xl.font-medium {
+  color: #f2f6d0 !important;
+}
+
+/* Bio sous le nom - plus spécifique */
+div.break-words {
+  color: #F8A6D3 !important;
+}
+
+/* Éléments strong (comme "Decathlon") */
+strong {
+  color: #f2f6d0 !important;
+}
+
+/* Bouton menu hamburger */
+.btn-menu {
+  color: #F8A6D3 !important;
+}
+
+/* Barres du menu hamburger */
+.btn-menu::before,
+.btn-menu::after,
+.btn-menu span {
+  background-color: #F8A6D3 !important;
+}
+
+/* Masquer le bouton dark mode */
+.btn-dark {
+  display: none !important;
 }
