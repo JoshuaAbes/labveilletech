@@ -1488,4 +1488,4 @@
 }@property --tw-ring-offset-shadow{syntax: "*";
   inherits: false;
   initial-value: 0 0 #0000;
-}@keyframes spin{to{transform:rotate(360deg)}}:root{--color-bg:#40364F;--color-text:#F8A6D3}body{background-color:var(--color-bg)!important;color:var(--color-text)!important}body::before{display:none!important}article{color:var(--color-text)!important}a{color:#f8a6d3!important}a:hover{color:#ffc4e5!important}header{background-color:var(--color-bg)!important}h1,h2,h3,h4,h5,h6{color:var(--color-text)!important}
+}@keyframes spin{to{transform:rotate(360deg)}}:root{--color-bg:#40364F;--color-text:#F8A6D3}body{background-color:var(--color-bg)!important;color:var(--color-text)!important}body::before{display:none!important}article{color:var(--color-text)!important}a{color:#f8a6d3!important}a:hover{color:#ffc4e5!important}header{background-color:var(--color-bg)!important}h1,h2,h3,h4,h5,h6{color:var(--color-text)!important}.profile .profile_inner h1{color:#f8a6d3!important}.profile .profile_inner .bio{color:#f8a6d3!important}
