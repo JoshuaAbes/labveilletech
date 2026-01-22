@@ -12,8 +12,8 @@ Décathlon a récemment dévoilé une refonte majeure de son identité de marque
 
 Le nouveau logo de Decathlon est composé de deux éléments principaux :
 
-- le mot-symbole familier **"Decathlon"**,
-- et un nouveau symbole appelé **"L'orbe"**.
+- le mot-symbole familier **"Decathlon"**
+- et un nouveau symbole appelé **"L'orbe"**
 
 Cet élément visuel est conçu pour exprimer le mouvement, la circularité, l'énergie et l'ambition de la marque. Il s'inspire tout à la fois du design historique de Decathlon et de formes dynamiques (comme une montagne, une voile, une vague ou même un rythme cardiaque), qui traduisent l'idée d'un mouvement permanent vers de nouveaux sommets.
 
