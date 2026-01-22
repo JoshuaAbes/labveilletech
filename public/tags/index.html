@@ -30,7 +30,7 @@
     name="description"
     content="A personal blog"
   />
-  <meta name="author" content="Bonjour, je suis Joshua" /><link rel="preload stylesheet" as="style" href="http://localhost:1313/labveilletech/main.min.7977aa9f047831e6d37c68d3b084d662e0efcf5b3b8d021459db867b69e55c0a.css" integrity="sha256-eXeqnwR4MebTfGjTsITWYuDvz1s7jQIUWduGe2nlXAo=" />
+  <meta name="author" content="Bonjour, je suis Joshua" /><link rel="preload stylesheet" as="style" href="http://localhost:1313/labveilletech/main.min.ad2e6bc6cba6d745df1155f98b3e1c2bb842ee6dde67a0dd5fb024ee8d812a5d.css" integrity="sha256-rS5rxsum10XfEVX5iz4cK7hC7m3eZ6DdX7Ak7o2BKl0=" />
 
   
   <link rel="preload" as="image" href="http://localhost:1313/labveilletech/theme.png" />
@@ -170,5 +170,32 @@
     >hugo-paper</a
   >
 </footer>
+<button id="back-to-top" aria-label="Retour en haut">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="18 15 12 9 6 15"></polyline>
+  </svg>
+</button>
+
+<script>
+  
+  const backToTopButton = document.getElementById('back-to-top');
+  
+  
+  window.addEventListener('scroll', () => {
+    if (window.pageYOffset > 300) {
+      backToTopButton.classList.add('show');
+    } else {
+      backToTopButton.classList.remove('show');
+    }
+  });
+  
+  
+  backToTopButton.addEventListener('click', () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  });
+</script>
 </body>
 </html>
