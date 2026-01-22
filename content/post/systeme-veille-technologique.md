@@ -24,7 +24,7 @@ J'ai alors cherché à comprendre comment transformer ce fonctionnement assez ch
 
 Pour mettre cela en place, j'ai choisi d'utiliser Notion, un outil que je connais relativement bien. J'y ai créé une page dédiée à ma veille, sous forme de tableau, avec différents champs permettant de classer les contenus (source, type, thème) et surtout d'expliquer pourquoi ils sont intéressants et comment je pourrais les réutiliser.
 
-![Mon tableau de veille dans Notion](/images/notion-tableau-veille.png)
+![Mon tableau de veille dans Notion](../../images/notion-tableau-veille.png)
 
 Mon workflow se déroule désormais en trois étapes :
 
@@ -32,7 +32,7 @@ Mon workflow se déroule désormais en trois étapes :
 2. **Centraliser** ces contenus dans Notion.
 3. **Y revenir** une fois par semaine ou par mois grâce à une vue spécifique que j'appelle ma "Bonne Pioche personnelle".
 
-![Ma vue "Bonne Pioche personnelle"](/images/bonne-pioche-personnelle.png)
+![Ma vue "Bonne Pioche personnelle"](../../images/bonne-pioche-personnelle.png)
 
 ## Conclusion
 
