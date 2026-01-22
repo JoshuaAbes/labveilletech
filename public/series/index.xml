@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Joshua</title>
-    <link>http://localhost:61868/labveilletech/series/</link>
+    <link>http://localhost:1313/labveilletech/series/</link>
     <description>Recent content in Series on Joshua</description>
     <generator>Hugo</generator>
     <language>fr-ch</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:61868/labveilletech/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/labveilletech/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Themes Guide</title>
-      <link>http://localhost:61868/labveilletech/series/themes-guide/</link>
+      <link>http://localhost:1313/labveilletech/series/themes-guide/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61868/labveilletech/series/themes-guide/</guid>
+      <guid>http://localhost:1313/labveilletech/series/themes-guide/</guid>
       <description></description>
     </item>
   </channel>
