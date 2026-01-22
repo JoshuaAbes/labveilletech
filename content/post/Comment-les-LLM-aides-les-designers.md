@@ -43,3 +43,8 @@ Il est donc nécessaire d'utiliser les LLM comme des outils de soutien, et non c
 Les LLM représentent une opportunité intéressante pour les designers UI/UX et graphic designers, tant pour la formation que pour la veille technologique. Ils permettent de gagner du temps, de mieux comprendre des concepts complexes et de structurer de grandes quantités d'informations.
 
 Cependant, leur efficacité dépend entièrement de l'usage qui en est fait. Utilisés comme des assistants d'analyse et de synthèse, intégrés dans un système de veille réfléchi, ils peuvent enrichir la pratique du design sans jamais remplacer le rôle central du regard humain, de l'esprit critique et de la créativité.
+
+---
+
+**Source** : [Actulligence](https://www.actulligence.com/)
+[UX Collective](https://uxdesign.cc/)

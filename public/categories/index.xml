@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Méthode</title>
+      <link>http://localhost:1313/labveilletech/categories/m%C3%A9thode/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/labveilletech/categories/m%C3%A9thode/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Réflexion</title>
       <link>http://localhost:1313/labveilletech/categories/r%C3%A9flexion/</link>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
@@ -23,23 +30,16 @@
       <description></description>
     </item>
     <item>
-      <title>Méthode</title>
-      <link>http://localhost:1313/labveilletech/categories/m%C3%A9thode/</link>
-      <pubDate>Wed, 21 Jan 2026 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/labveilletech/categories/m%C3%A9thode/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Syntax</title>
       <link>http://localhost:1313/labveilletech/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/labveilletech/categories/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
       <link>http://localhost:1313/labveilletech/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/labveilletech/categories/themes/</guid>
       <description></description>
     </item>
