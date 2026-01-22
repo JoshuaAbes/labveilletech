@@ -38,3 +38,12 @@ header {
 h1, h2, h3, h4, h5, h6 {
   color: var(--color-text) !important;
 }
+
+/* Nom et bio sur la page d'accueil */
+.profile .profile_inner h1 {
+  color: #F8A6D3 !important;
+}
+
+.profile .profile_inner .bio {
+  color: #F8A6D3 !important;
+}

@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Joshua</title><link>https://joshuaabes.github.io/labveilletech/categories/</link><description>Recent content in Categories on Joshua</description><generator>Hugo</generator><language>fr-ch</language><lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://joshuaabes.github.io/labveilletech/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Réflexion</title><link>https://joshuaabes.github.io/labveilletech/categories/r%C3%A9flexion/</link><pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><guid>https://joshuaabes.github.io/labveilletech/categories/r%C3%A9flexion/</guid><description/></item><item><title>Méthode</title><link>https://joshuaabes.github.io/labveilletech/categories/m%C3%A9thode/</link><pubDate>Wed, 21 Jan 2026 10:00:00 +0100</pubDate><guid>https://joshuaabes.github.io/labveilletech/categories/m%C3%A9thode/</guid><description/></item><item><title>Syntax</title><link>https://joshuaabes.github.io/labveilletech/categories/syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://joshuaabes.github.io/labveilletech/categories/syntax/</guid><description/></item><item><title>Themes</title><link>https://joshuaabes.github.io/labveilletech/categories/themes/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://joshuaabes.github.io/labveilletech/categories/themes/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Joshua</title>
+    <link>http://localhost:61868/labveilletech/categories/</link>
+    <description>Recent content in Categories on Joshua</description>
+    <generator>Hugo</generator>
+    <language>fr-ch</language>
+    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:61868/labveilletech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Réflexion</title>
+      <link>http://localhost:61868/labveilletech/categories/r%C3%A9flexion/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61868/labveilletech/categories/r%C3%A9flexion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Méthode</title>
+      <link>http://localhost:61868/labveilletech/categories/m%C3%A9thode/</link>
+      <pubDate>Wed, 21 Jan 2026 10:00:00 +0100</pubDate>
+      <guid>http://localhost:61868/labveilletech/categories/m%C3%A9thode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Syntax</title>
+      <link>http://localhost:61868/labveilletech/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61868/labveilletech/categories/syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>http://localhost:61868/labveilletech/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61868/labveilletech/categories/themes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
