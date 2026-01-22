@@ -28,7 +28,7 @@
   <meta name="description" content="Bonjour, je m&rsquo;appelle Joshua, j&rsquo;ai 23 ans et je suis étudiant en ingénierie des médias.
 Je m&rsquo;intéresse particulièrement au design graphique, à l&rsquo;UI/UX design et à l&rsquo;univers du football, qui constitue une source d&rsquo;inspiration constante dans mon travail.
 À travers mes études, je développe des compétences à la fois techniques, créatives et analytiques, avec l&rsquo;envie de comprendre comment les images, les interfaces et les systèmes numériques influencent notre manière d&rsquo;interagir avec le monde. Le design est pour moi un moyen de raconter des histoires, de créer des expériences et de donner du sens à des idées, qu&rsquo;elles soient culturelles, sportives ou médiatiques." />
-  <meta name="author" content="Joshua Abessolo" /><link rel="preload stylesheet" as="style" href="http://localhost:1313/labveilletech/main.min.11f27d30402e1358f50471fce21c895bd87cbc93adfe9669dfa103d9769107e0.css" integrity="sha256-EfJ9MEAuE1j1BHH84hyJW9h8vJOt/pZp36ED2XaRB&#43;A=" />
+  <meta name="author" content="Joshua Abessolo" /><link rel="preload stylesheet" as="style" href="http://localhost:1313/labveilletech/main.min.ad2e6bc6cba6d745df1155f98b3e1c2bb842ee6dde67a0dd5fb024ee8d812a5d.css" integrity="sha256-rS5rxsum10XfEVX5iz4cK7hC7m3eZ6DdX7Ak7o2BKl0=" />
 
   
   <link rel="preload" as="image" href="http://localhost:1313/labveilletech/theme.png" />
@@ -217,5 +217,32 @@ Le design graphique et l&rsquo;UI/UX me permettent de combiner analyse, créativ
     >hugo-paper</a
   >
 </footer>
+<button id="back-to-top" aria-label="Retour en haut">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="18 15 12 9 6 15"></polyline>
+  </svg>
+</button>
+
+<script>
+  
+  const backToTopButton = document.getElementById('back-to-top');
+  
+  
+  window.addEventListener('scroll', () => {
+    if (window.pageYOffset > 300) {
+      backToTopButton.classList.add('show');
+    } else {
+      backToTopButton.classList.remove('show');
+    }
+  });
+  
+  
+  backToTopButton.addEventListener('click', () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  });
+</script>
 </body>
 </html>
